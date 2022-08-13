@@ -11,7 +11,7 @@ DATABASE - имя базы данных
 
 создаем в папке с ботом .env файл и заполняем его следующем 
 
-TELEGRAM_API_TOKEN=
+TELEGRAM_API_TOKEN= n/
 ip = 
 PGUSER = 
 PGPASSWORD = 
