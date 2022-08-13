@@ -11,12 +11,18 @@ DATABASE - имя базы данных
 
 создаем в папке с ботом .env файл и заполняем его следующем 
 
-TELEGRAM_API_TOKEN= n/
+TELEGRAM_API_TOKEN= 
+
 ip = 
+
 PGUSER = 
+
 PGPASSWORD = 
+
 DATABASE = 
+
 OAUTH_TOKEN = 
+
 FOLDER_ID = 
 
 Устанавливаем зависимости, запускаем бота.
